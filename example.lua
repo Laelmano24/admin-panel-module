@@ -1,4 +1,4 @@
-local adminModules = loadstring(game:HttpGet("https://raw.githubusercontent.com/hypertext500/admin-panel-module/refs/heads/main/loader.lua"))()
+local adminModules = loadstring(game:HttpGet("https://raw.githubusercontent.com/Laelmano24/admin-panel-module/refs/heads/main/loader.lua"))()
 
 --[[
 
